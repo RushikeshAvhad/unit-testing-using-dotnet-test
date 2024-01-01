@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "PrimeService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PrimeService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeService.dll": {}
+        }
       }
     }
   },
@@ -5507,11 +5517,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "PrimeService/1.0.0": {
+      "type": "project",
+      "path": "../PrimeService/PrimeService.csproj",
+      "msbuildProject": "../PrimeService/PrimeService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.6.0",
+      "PrimeService >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5549,7 +5565,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\SMBios\\Training\\DevOps\\Unit Testing\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+              "projectPath": "D:\\SMBios\\Training\\DevOps\\Unit Testing\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
