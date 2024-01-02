@@ -1,0 +1,11 @@
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.dll
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.dll
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+D:\SMBios\Training\DevOps\Unit Testing\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
